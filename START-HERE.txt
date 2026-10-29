@@ -1,0 +1,12 @@
+ЛИЯ И КОРОЛЕВСТВО ВОСЬМИ ЖЕЛАНИЙ
+
+1. Извлеките весь ZIP.
+2. Для просмотра откройте index.html.
+3. Для GitHub загрузите СОДЕРЖИМОЕ этой папки в корень репозитория:
+   index.html, style.css, app.js, content.js, README.md, START-HERE.txt
+   И ПАПКИ assets и keepsakes ЦЕЛИКОМ.
+4. Settings → Pages → Deploy from a branch → main → /(root) → Save.
+
+Не загружайте сам ZIP. Не переносите только index.html: без папок не будет иллюстраций и файлов на память.
+Подробная инструкция — README.md.
+Книга PDF и диплом PNG — в папке keepsakes.
